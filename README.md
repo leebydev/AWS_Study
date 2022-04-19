@@ -16,5 +16,5 @@
 7. jupyter notebook 사용 Port  
 
 
-<jupyter notebook>
-jupyter notebook --ip=0.0.0.0 --no-browser --port=8917
+#### jupyter notebook
+jupyter notebook --ip=0.0.0.0 --no-browser --port=
